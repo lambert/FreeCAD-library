@@ -6,3 +6,7 @@
 | 02   | Loose plate flanges with weld-on plate collar |       | .   | .    | .    | .    | .    |      |       |       |       |       |       |
 | 04   | Loose plate flanges with weld-neck collar     |       | .   | .    | .    | .    | .    |      |       |       |       |       |       |
 | 05   | Blank (blind) flanges                         | WIP     | .   | .    | .    | .    | .    | .    | .     |       |       |       |       |
+
+. = To be done.
+
+WIP = Work In Progress.
