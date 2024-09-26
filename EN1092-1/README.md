@@ -24,3 +24,9 @@ WIP = Work In Progress.
 | 32 | X     | X     | .   | .    | .    | .    | .    | .    | .     |       |       |       |
 | 40 | X     | X     | .   | .    | .    | .    | .    | .    | .     |       |       |       |
 | 50 | X     | X     | .   | .    | .    | .    | .    | .    | .     |       |       |       |
+
+X = Done.
+
+. = To be done.
+
+WIP = Work In Progress.
