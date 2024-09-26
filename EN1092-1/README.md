@@ -5,7 +5,7 @@
 | 01   | Plate flanges for welding                     |       | .   | .    | .    | .    | .    | .    | .     |       |       |       |       |
 | 02   | Loose plate flanges with weld-on plate collar |       | .   | .    | .    | .    | .    |      |       |       |       |       |       |
 | 04   | Loose plate flanges with weld-neck collar     |       | .   | .    | .    | .    | .    |      |       |       |       |       |       |
-| 05   | Blank (blind) flanges                         | WIP   | WIP | .    | .    | .    | .    | .    | .     |       |       |       |       |
+| [05](05.md)   | Blank (blind) flanges                         | WIP   | WIP | .    | .    | .    | .    | .    | .     |       |       |       |       |
 
 X = Done.
 
