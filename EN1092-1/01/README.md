@@ -28,3 +28,7 @@ X = Done.
 . = To be done.
 
 WIP = Work In Progress.
+
+DN = Nominal Diameter in mm.
+
+PN = Nominal Pressure rating in Bar(g) at room temperature.
