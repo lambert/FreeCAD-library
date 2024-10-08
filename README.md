@@ -1,4 +1,4 @@
-# FreeCAD-Piping-library
+# FreeCAD-library
 
 | Standard                       | Description          |
 |--------------------------------|----------------------|
